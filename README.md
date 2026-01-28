@@ -1,4 +1,4 @@
-Welcome to the official repository for DGENBOT the premier Solana intelligence tool built to monitor the chain for alpha and keep you ahead of the market.
+Welcome to the official repository for DGENBOT the premier Solana tool built to monitor the chain for alpha and keep you ahead of the market.
 
 📊 Token Info
 - Token: DGENBOT ($DGEN)
